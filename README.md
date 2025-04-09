@@ -1,2 +1,4 @@
-# GitHub-Pages-Project-CSE-110
-CSE 110 Lab #1
+My favorite programming language is C++
+
+Link to my github pages:
+https://rluminto.github.io/GitHub-Pages-Project-CSE-110/
